@@ -1,0 +1,4 @@
+*.swp
+.pioenvs
+.piolibdeps
+.pio

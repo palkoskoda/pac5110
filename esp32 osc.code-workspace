@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "esp32 osc",
+			"path": "../esp32 osc"
+		},
+		{
+			"name": "viktor cerpadlo",
+			"path": "../viktor cerpadlo"
+		},
+		{
+			"name": "elektromer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"pac5110enums.h": "c",
+			"string": "cpp"
+		}
+	}
+}
